@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":167:{a:2:{s:7:"defects";a:1:{s:22:"SimpleTest::testDivide";i:3;}s:5:"times";a:2:{s:22:"SimpleTest::testDivide";d:0.012;s:35:"SimpleTest::testDivideWithException";d:0.002;}}}
